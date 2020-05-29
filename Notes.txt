@@ -1,0 +1,8 @@
+--> CSS is used on top of HTML for bestter design.
+--> To comment is css, use /* content */ or CTRL + /.
+--> To link css with HTML, on head of HTML, use link tag to specify the css file. 
+<link rel="stylesheet" type="text/css" href="link_css_with_html.css">
+--> Basic syntax of css is tag{property: value;} eg: h1{color:yellow;}
+--> The color can be indicad in four diffrent ways. 1)"red" 2)"rgb(100, 25,50)" 3) "#0895a8" where this number is denoted as hex codes. 4)rgba (55, 20, 63, 0.5) where a is alpha ranging from 0 to 1 for transperancy. 
+Google search keyword: color picker.
+
