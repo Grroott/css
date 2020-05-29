@@ -1,0 +1,16 @@
+body{
+	background: url(screenshot.png);
+}
+p{
+	background-color: yellow;
+}
+div{
+	border-color: black;
+	border-width: 5px;
+	border-style: dotted;
+}
+span{
+	border-color: white;
+	border-style: dashed;
+	border-width: 3px;
+}
