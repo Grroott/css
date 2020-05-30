@@ -1,0 +1,47 @@
+body{
+
+	border-left: 50px solid yellow;
+	border-bottom: 50px solid yellow;
+	border-right: 50px solid yellow;
+	text-align: center;
+	padding-bottom: 100px;
+	background: black;
+	color: white;
+	font-family: "Arial";
+	margin: 0px;
+}
+h1{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+input{
+	text-align: center;
+}
+ p{
+	text-align: center;
+}
+
+.one{
+	padding: 50px 300px 25px 300px;
+}
+.two{
+	padding:25px 300px 50px 300px;
+}
+#unique{
+	margin-top: 30px;
+	border: 2px solid white;
+	font-size: 20px;
+	text-align: center;
+	padding: 20px;
+	background: orange;
+	border-radius: 25px;
+
+}
+
+/*form{
+	border-color: white;
+	border-style: solid;
+	border: 100px
+}*/

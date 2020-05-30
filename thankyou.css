@@ -1,0 +1,15 @@
+body{
+	background: black;
+	border-left: 50px solid blue;
+	border-right: 50px solid blue;
+	border-bottom: 50px solid blue;
+}
+h2{
+	color: white;
+	text-align: center;
+}
+h3{
+	color: white;
+	text-align: center;
+	padding-bottom: 50px;
+}
