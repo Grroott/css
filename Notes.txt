@@ -8,4 +8,9 @@ Google search keyword: color picker.
 --> backround image can be inserted by using background: url(path_or_url_of_the_image)
 --> border with can be mentioned in pixels. eg: 10px.
 --> <div> tag & <span> tag can be effectively used to diffrentiate differnet part of the web page.
---> 
+--> id must be unique to css.
+--> classes and id are used to specify the required portion insteaed of all tags.
+--> .classname and #idname is used in place of tags in css file.
+--> <tag1> + <tag2>{} -- This is used to specify <tag2> which are next to <tag1>.
+--> <tag1> <tag2>{} -- This is used to specify <tag2> which are inside <tag1>.
+--> More than one values can be specified in single line. eg: {border: 1px dotted yellow}

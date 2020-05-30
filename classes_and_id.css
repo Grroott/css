@@ -1,0 +1,22 @@
+.classone{
+	color: purple;
+}
+.classtwo{
+	color: red;
+}
+
+body{
+	border: 1px dotted blue;
+	background: yellow;
+}
+#unique{
+	color: blue;
+}
+
+ul + li{
+	background: white;
+}
+
+ul li{
+	color: orange;
+}
