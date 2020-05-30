@@ -14,3 +14,5 @@ Google search keyword: color picker.
 --> <tag1> + <tag2>{} -- This is used to specify <tag2> which are next to <tag1>.
 --> <tag1> <tag2>{} -- This is used to specify <tag2> which are inside <tag1>.
 --> More than one values can be specified in single line. eg: {border: 1px dotted yellow}
+--> *{} will override all tags except the id{}.
+--> Some of the tags have power than others are called specificity. "id > clss > normal tags".
