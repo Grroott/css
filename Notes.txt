@@ -16,3 +16,6 @@ Google search keyword: color picker.
 --> More than one values can be specified in single line. eg: {border: 1px dotted yellow}
 --> *{} will override all tags except the id{}.
 --> Some of the tags have power than others are called specificity. "id > clss > normal tags".
+--> Some font family can be mentioned as usual but some specific font family is mentioned within double quotes. eg: <tag> {font-family:"Arial"}
+--> Font size can be mentioned in "em". This should be mentioned in ratio to the base font size.
+--> There are other font variants such as font-weight, font-style.

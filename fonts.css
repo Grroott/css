@@ -1,0 +1,13 @@
+h1{
+	font-family: "Arial";
+}
+p{
+	font-style: italic;
+}
+body{
+	font-size: 20px;
+}
+#unique{
+	font-size: 2em;
+	font-weight: bold;
+}
