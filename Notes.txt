@@ -19,3 +19,5 @@ Google search keyword: color picker.
 --> Some font family can be mentioned as usual but some specific font family is mentioned within double quotes. eg: <tag> {font-family:"Arial"}
 --> Font size can be mentioned in "em". This should be mentioned in ratio to the base font size.
 --> There are other font variants such as font-weight, font-style.
+--> Some of the fonts are not available on all OS by default. We need to download/use from internet. go to "www.fonts.google.com" and choose the required font and add a link tag as mentioned in website in your html file and add other specificaions in css file. Also, the fonts can be downloaded and local directory can be referenced to use the downloaded font.
+
